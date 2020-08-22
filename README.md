@@ -1,6 +1,6 @@
 # CANlab_help_examples and second-level batch scripts
 
-This repository is designed to accompany the <a href = "http://canlab.github.io/CanlabCore">CANlab Core Tools repository for neuroimaging data analysis</a>. It includes:
+This repository is designed to accompany the <a href = "https://github.com/canlab/CanlabCore">CANlab Core Tools repository for neuroimaging data analysis</a>. It includes:
 - How-to examples that publish HTML files with code and output, focusing on the CANlab’s interactive object-oriented tools.
 - A set of modifiable batch scripts that provide a second-level neuroimaging analysis pipeline, which stores objects and variables with standard names and prints date-stamped HTML reports for analyses. 
 
